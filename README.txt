@@ -1,0 +1,1 @@
+Simple WebScraper that scraps most active stocks from Yahoo finance and exports it to a xlsx file.
